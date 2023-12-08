@@ -14,8 +14,8 @@ Hello, I'm Goran Draganić, Co-founder and Chief Architect at Daytona, dedicated
 
 📫 How to reach me:
 
-🏢 I'm on [LinkedIn](https://www.linkedin.com/in/goran-draganic/)
-🐦 Find me on Twitter at [Twitter @gorandraganic](https://twitter.com/gorandraganic).
+- 🏢 I'm on [LinkedIn](https://www.linkedin.com/in/goran-draganic/)
+- 🐦 Find me on Twitter at [Twitter @gorandraganic](https://twitter.com/gorandraganic).
 
 Join the exciting journey of transforming how developers work!
 
