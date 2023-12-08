@@ -10,7 +10,7 @@ Hello, I'm Goran Draganić, Co-founder and Chief Architect at Daytona, dedicated
 * 🧑‍💼 Dedicated to simplifying onboarding with standardized settings.
 * 🌟 Vision: AI tools for AI-assisted coding, collaboration, and secure data exploration at Daytona.
 * 🍳 Enjoys exploring culinary arts.
-* 💬 Passionate about democratizing development. Connect on [Twitter @gorandraganic](https://twitter.com/gorandraganic).
+* 💬 Passionate about democratizing development.
 
 📫 How to reach me:
 
